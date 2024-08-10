@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 15 Pro",
+            "desc": "Apple iPhone 15th generation",
+            "price": 999,
+            "color": "Natural Titanium",
+            "image": "assets/images/iphone.png"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 6 Pro",
+            "desc": "Google Pixel phone 6th generation",
+            "price": 699,
+            "color": "white",
+            "image": "assets/images/pixel.png"
+        },
+        {
+            "id": 3,
+            "name": "Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1199,
+            "color": "#e0bfae",
+            "image": "assets/images/mac.png"
+        },
+        {
+            "id": 4,
+            "name": "Dyson Airwrap",
+            "desc": "multi-styler and dryer",
+            "price": 599,
+            "color": "#544ee4",
+            "image": "assets/images/dyson.png"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 250,
+            "color": "#e3e4e9",
+            "image": "assets/images/airpods.png"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro (3rd Generation)",
+            "price": 899,
+            "color": "#f73984",
+            "image": "assets/images/ipad.png"
+        },
+        {
+            "id": 7,
+            "name": "iwatch series 9",
+            "desc": "Apple iwatch Series 9",
+            "price": 399,
+            "color": "#1c1c1c",
+            "image":"assets/images/watch.png"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy S24",
+            "desc": "Samsung Galaxy S24 Ultra 2024 edition",
+            "price": 1300,
+            "color": "#7c95eb",
+            "image": "assets/images/s24.png"
+        }
+    ]
+}
